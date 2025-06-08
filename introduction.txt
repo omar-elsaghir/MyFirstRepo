@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+My name is Omar Ramadan. I am a computer and data science student at Alexandria College, specializing in artificial intelligence. I am passionate about coding, AI development, and learning new technologies.
+
+I enjoy building software projects, solving problems, and collaborating with others. My long-term goal is to become a skilled AI software engineer and contribute to impactful open-source projects.
