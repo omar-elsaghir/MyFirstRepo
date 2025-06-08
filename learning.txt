@@ -1,1 +1,3 @@
-I’ve learned how to use GitHub, create repositories, and collaborate with others using branches and pull requests.
+What I have learned from this course
+
+I have learned how to create repositories, commit changes, work with branches, and collaborate with others using pull requests on GitHub. This has helped me understand version control and teamwork in software development.
